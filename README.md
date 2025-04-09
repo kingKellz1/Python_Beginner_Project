@@ -55,6 +55,7 @@ English: B
 History: C
 Total Points: 9
 Average: 3.00
+```
 
 ## 🛠 Technologies Used
 
